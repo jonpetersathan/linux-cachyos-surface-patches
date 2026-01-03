@@ -1,3 +1,23 @@
+# NOTE
+
+This is a fork of [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) to make the patches compatible with cachyos patches. The full configuration and instructions on how to build the cachyos kernel with surface patches can be found in [jonpetersathan/linux-surface-cachyos](https://github.com/jonpetersathan/linux-surface-cachyos).
+
+## Updated and tested kernel versions
+
+- [ ] 6.6
+- [ ] 6.9
+- [ ] 6.10
+- [ ] 6.11
+- [ ] 6.12
+- [ ] 6.13
+- [ ] 6.14
+- [ ] 6.15
+- [ ] 6.16
+- [ ] 6.17
+- [x] 6.18: Tested with version 6.18.3
+
+# ORIGINAL README
+
 # Linux Surface
 
 Linux running on the Microsoft Surface devices.
