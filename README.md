@@ -8,7 +8,7 @@ This is a fork of [linux-surface/linux-surface](https://github.com/linux-surface
 - [ ] 6.9
 - [ ] 6.10
 - [ ] 6.11
-- [ ] 6.12
+- [x] 6.12: Tested with version 6.12.63
 - [ ] 6.13
 - [ ] 6.14
 - [ ] 6.15
